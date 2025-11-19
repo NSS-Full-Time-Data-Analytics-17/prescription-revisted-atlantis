@@ -1,7 +1,9 @@
 In this project you will be creating a presentation that will be delivered to a government board on behalf of concerned citizens.
+
 You are working on behalf of community groups who believe there should be more oversight of prescription opioids.
-You will want each slide to be simple yet informative.  You can use any charts you choose and you can assume the board understands
-simple statistics and correlation coefficients.  You have 10 minutes to present and will be expected to answer basic questions.
+
+You will want each slide to be simple yet informative.  You can use any charts you choose and you can assume the board understands simple statistics and correlation coefficients.  You have 10 minutes to present and will be expected to answer basic questions.
+
 At the end of the presentation you should recommend some areas that could benefit from further data collection and analysis.
 
 Before you plan the presentation, start by answering some of these questions.  They will help you get an idea of some possible directions you can go.  Not all these answers need to be in the presentation and other analysis can be included.
